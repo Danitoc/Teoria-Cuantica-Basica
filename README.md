@@ -35,4 +35,13 @@ vectores propios.
 ## Explicación ejercicio 4.5.2
 Para la solución del ejercicio es necesario recordar que la partícula solo tiene dos posibles movimientos, hacia arriba 
 o hacia abajo. Teniendo esto en cuenta es necesario hablar en términos de x y y.
--X
+-X![Alt text](https://github.com/Danitoc/Teoria-Cuantica-Basica/blob/master/Capturas/452.1.png)
+
+-Y![Alt text](https://github.com/Danitoc/Teoria-Cuantica-Basica/blob/master/Capturas/452.2.png)
+
+Después de hallar los anteriores estados es necesario calcular el producto tensor.
+
+-Tensor![Alt text](https://github.com/Danitoc/Teoria-Cuantica-Basica/blob/master/Capturas/452.3.png)
+
+## Eplicación ejercicio 4.5.3
+
