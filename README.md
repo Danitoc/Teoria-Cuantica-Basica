@@ -28,4 +28,6 @@ para la correcta visualización de las gráficas y finalmente la librería de nu
 vectores propios.
 
 ## Resultados de los ejercicios modelados
+-Datos![Alt text](https://github.com/Danitoc/Teoria-Cuantica-Basica/blob/master/Capturas/Resultados.png)
 
+-Resultados![Alt text](https://github.com/Danitoc/Teoria-Cuantica-Basica/blob/master/Capturas/Grafica.png)
