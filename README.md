@@ -43,5 +43,18 @@ Después de hallar los anteriores estados es necesario calcular el producto tens
 
 -Tensor![Alt text](https://github.com/Danitoc/Teoria-Cuantica-Basica/blob/master/Capturas/452.3.png)
 
-## Eplicación ejercicio 4.5.3
+Vector genérico del sistema
 
+## Eplicación ejercicio 4.5.3
+Basados en el resultado del ejercicio 4.5.2 es posible formular el siguiente vector genérico:
+![Alt text](https://github.com/Danitoc/Teoria-Cuantica-Basica/blob/master/Capturas/453.1.png)
+
+Posteriormente es posible establecer las siguientes igualdades:
+![Alt text](https://github.com/Danitoc/Teoria-Cuantica-Basica/blob/master/Capturas/453.2.png)
+
+Finalmente es posible hallar las siguientes equivalencias al despejar los complejos, concluyendo que el estado es 
+separable:
+![Alt text](https://github.com/Danitoc/Teoria-Cuantica-Basica/blob/master/Capturas/453.3.png)
+
+## Autor
+Daniel Ricardo Villamil Gómez
