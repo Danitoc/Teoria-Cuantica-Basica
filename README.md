@@ -31,3 +31,8 @@ vectores propios.
 -Datos![Alt text](https://github.com/Danitoc/Teoria-Cuantica-Basica/blob/master/Capturas/Resultados.png)
 
 -Resultados![Alt text](https://github.com/Danitoc/Teoria-Cuantica-Basica/blob/master/Capturas/Grafica.png)
+
+## Explicación ejercicio 4.5.2
+Para la solución del ejercicio es necesario recordar que la partícula solo tiene dos posibles movimientos, hacia arriba 
+o hacia abajo. Teniendo esto en cuenta es necesario hablar en términos de x y y.
+-X
